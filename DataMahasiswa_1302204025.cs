@@ -16,11 +16,11 @@ namespace modul6_Kelompok_08
 
 			dynamic data = JsonConvert.DeserializeObject(jsonstring);
 
-			Console.WriteLine("Nama : " + data.firstName + " " + data.lastName);
-			Console.WriteLine("Gender : " + data.gender);
-			Console.WriteLine("Umur : " + data.age);
-			Console.WriteLine("Alamat : " + data.address.streetAddress + ", " + data.address.city + ", " + data.address.state);
-			Console.WriteLine("Mata Kuliah : ");
+			Console.WriteLine("Nama				: " + data.firstName + " " + data.lastName);
+			Console.WriteLine("Gender			: " + data.gender);
+			Console.WriteLine("Umur				: " + data.age);
+			Console.WriteLine("Alamat			: " + data.address.streetAddress + ", " + data.address.city + ", " + data.address.state);
+			Console.WriteLine("Mata Kuliah		: ");
 			foreach (var item in data.courses)
 			{
 				Console.WriteLine();
