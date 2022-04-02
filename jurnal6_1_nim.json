@@ -1,0 +1,15 @@
+{
+   "firstName": "Muhammad Auzan",
+   "lastName": "Zaky Eryana",
+   "gender": "male",
+   "age": 18,
+   "address": {
+       "streetAddress": "Tamansari Persada Blok D3 No 4",
+       "city": "Bogor",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "Nama Mata Kuliah" }
+   ]
+}
