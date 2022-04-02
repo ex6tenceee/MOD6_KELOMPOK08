@@ -1,12 +1,12 @@
 {
-   "firstName": "John",
-   "lastName": "Doe",
+   "firstName": "abdul",
+   "lastName": "ghofur",
    "gender": "male",
-   "age": 25,
+   "age": 21,
    "address": {
-       "streetAddress": "Mengger",
-       "city": "Bandung",
-       "state": "West Java"
+       "streetAddress": "garungwiyoro",
+       "city": "Pekalongan",
+       "state": "central java"
    },
    "courses": [
        { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },

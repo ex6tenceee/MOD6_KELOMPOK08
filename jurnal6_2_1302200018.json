@@ -1,25 +1,32 @@
 {
   "members" : [
     {
-       "firstName": "Joe",
-       "lastName": "Jackson",
+       "firstName": "yanuar",
+       "lastName": "firdaus",
        "gender": "male",
-       "age": 28,
-       "nim": "7349282382"
+       "age": 21,
+       "nim": "1302204001"
     },
     {
-       "firstName": "James",
-       "lastName": "Smith",
+       "firstName": "daffa",
+       "lastName": "aqilah",
        "gender": "male",
-       "age": 32,
-       "nim": "5678568567"
+       "age": 19,
+       "nim": "1302200097"
     },
     {
-       "firstName": "Emily",
-       "lastName": "Jones",
-       "gender": "female",
-       "age": 24,
-       "nim": "456754675"
+      "firstName": "erifka",
+      "lastName": "faodzi",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204025"
+    }
+    {
+      "firstName": "muhammad",
+      "lastName": "auzan Z e",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302204071"
     }
   ]
 }
