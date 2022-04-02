@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "yanuar",
+       "lastName": "firdaus",
+       "gender": "male",
+       "age": 21,
+       "nim": "1302204001"
+    },
+    {
+       "firstName": "daffa",
+       "lastName": "aqilah",
+       "gender": "male",
+       "age": 19,
+       "nim": "1302200097"
+    },
+    {
+      "firstName": "erifka",
+      "lastName": "faodzi",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302204025"
+    }
+    {
+      "firstName": "muhammad",
+      "lastName": "auzan Z e",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302204071"
+    }
+  ]
+}

@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace modul6_Kelompok_08
+{
+    public partial class Kelompok_08
+    {
+        public static void Main(string[] args)
+        {
+
+        }
+    }
+    
+}
