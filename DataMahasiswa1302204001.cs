@@ -30,5 +30,7 @@ namespace modul6_Kelompok_08
 			}
 			Console.WriteLine();
 		}
+
 	}
+
 }
