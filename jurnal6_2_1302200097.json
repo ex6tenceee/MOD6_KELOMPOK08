@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Yanuar",
+       "lastName": "Firdaus",
+       "gender": "male",
+       "age": 21,
+       "nim": "7349282382"
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Auzan Zaky Eryana",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302204071"
+    },
+    {
+      "firstName": "Abdul",
+      "lastName": "Ghofur",
+      "gender": "male",
+      "age": 21,
+      "nim": "1302200018"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+   firstName.: "Daffa",
+   "lastName": "Aqilah",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Taktakan",
+       "city": "Serang",
+       "state": "Banten"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "KPL" }
+   ]
+}
