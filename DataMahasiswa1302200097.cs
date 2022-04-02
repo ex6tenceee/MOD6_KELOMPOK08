@@ -12,13 +12,13 @@ namespace modul6_Kelompok_08
     {
         public static void readJSON()
         {
-            String jsonString = File.ReadAllText("C://users//NITRO////source//repos//modul6_Kelompok_08//jurnal6_1_1302200097");
+            String jsonString = File.ReadAllText("C://users//NITRO////source//repos//modul6_Kelompok_08//jurnal6_1_1302200097.json");
 
 			dynamic data = JsonConvert.DeserializeObject(jsonString);
 
            
 
-			Console.WriteLine("Nama : " + data.firstName + " " + data.lastName);
+			Console.WriteLine("Nama Lengkap : " + data.firstName + " " + data.lastName);
 			Console.WriteLine("Gender : " + data.gender);
 			Console.WriteLine("Umur : " + data.age);
 			Console.WriteLine("Alamat : " + data.address.streetAddress + ", " + data.address.city + ", " + data.address.state);
